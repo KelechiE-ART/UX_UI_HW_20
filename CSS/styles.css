@@ -262,11 +262,16 @@ div#DOE {
   }
 }
 
-img {
+.media img {
  width: 50vh;
  height: 40vh;
  margin-top: 20px;
  margin-bottom: 20px;
+}
+
+.card img {
+  width: 30vh;
+  height: 30vh;
 }
 
 .card {
@@ -293,4 +298,15 @@ div.jumbotron {
 img.TB {
   width: auto;
   height: auto;
+}
+
+h1, h2 {
+  font-size: 3pc;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  color: slateblue;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
 }
