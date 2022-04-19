@@ -265,4 +265,32 @@ div#DOE {
 img {
  width: 50vh;
  height: 40vh;
+ margin-top: 20px;
+ margin-bottom: 20px;
+}
+
+.card {
+  padding: 20px; 
+  margin: 20px;
+}
+
+div.jumbotron {
+  padding: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.list-unstyled {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+img.TB {
+  width: auto;
+  height: auto;
 }
